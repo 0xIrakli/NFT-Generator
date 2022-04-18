@@ -1,0 +1,25 @@
+{
+    //Generated Amounts In Percentages (%).
+    "eye": {
+        "accessories\\eye\\eye_patch.png": 61.904761904761905,
+        "accessories\\eye\\glasses_matrix.png": 34.31855500821018,
+        "accessories\\eye\\monicle.png": 3.776683087027915
+    },
+    "face": {
+        "accessories\\face\\mustache.png": 100.0
+    },
+    "hat": {
+        "accessories\\hat\\beanie_red.png": 10.391978122151322,
+        "accessories\\hat\\beanie_yellow.png": 9.753874202370099,
+        "accessories\\hat\\beret.png": 18.960802187784868,
+        "accessories\\hat\\cap.png": 35.186873290793066,
+        "accessories\\hat\\headphones.png": 19.963536918869647,
+        "accessories\\hat\\horns.png": 5.742935278030994
+    },
+    "neck": {
+        "accessories\\neck\\golden_neckless.png": 4.7775947281713345,
+        "accessories\\neck\\scarf_black.png": 9.71993410214168,
+        "accessories\\neck\\scarf_red.png": 61.44975288303131,
+        "accessories\\neck\\scarf_rednblack.png": 24.052718286655683
+    }
+}

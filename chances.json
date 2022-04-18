@@ -1,0 +1,25 @@
+{
+	//Specify Generation Chance For Every Accessory.
+	"eye": {
+		"accessories\\eye\\eye_patch.png":        60,
+		"accessories\\eye\\glasses_matrix.png":   35,
+		"accessories\\eye\\monicle.png":           5
+	},
+	"face": {
+		"accessories\\face\\mustache.png":       100
+	},
+	"hat": {
+		"accessories\\hat\\beanie_red.png":       10,
+		"accessories\\hat\\beanie_yellow.png":    10,
+		"accessories\\hat\\beret.png":            20,
+		"accessories\\hat\\cap.png":              35,
+		"accessories\\hat\\headphones.png":       20,
+		"accessories\\hat\\horns.png":            5
+	},
+	"neck": {
+		"accessories\\neck\\golden_neckless.png":  5,
+		"accessories\\neck\\scarf_black.png":     10,
+		"accessories\\neck\\scarf_red.png":       60,
+		"accessories\\neck\\scarf_rednblack.png": 25
+	}
+}
