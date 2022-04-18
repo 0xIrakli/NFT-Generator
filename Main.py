@@ -210,6 +210,6 @@ def main_random(num):
     time2 = time.perf_counter()
     print(f"I'm done! Elapsed: {round(time2-time1, 2)}s")
 
-main_random(1000)
+main_random(sys.argv[1])
 routine()
 input('Press Enter To Exit')
