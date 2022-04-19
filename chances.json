@@ -1,5 +1,4 @@
 {
-	//Specify Generation Chance For Every Accessory.
 	"eye": {
 		"accessories\\eye\\eye_patch.png":        60,
 		"accessories\\eye\\glasses_matrix.png":   35,
