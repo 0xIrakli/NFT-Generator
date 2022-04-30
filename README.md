@@ -27,4 +27,4 @@ where N is the number of NFT-s
 ## Output
 After the script is done (see command line output). It will output different NFT-s in the outputs folder. 
 output folder images will be in high resolution but the images in "output/raw" folder will be in original 16x16 image size.
-The Script also outputs metadata for each nft in the metadata.json file and the actual amounts of accessories in % in the amounts.json file.
+The Script also outputs metadata for each nft in the metadata.json file and the actual amounts of accessories in % (the 21% example we discussed earlier) in the amounts.json file.
